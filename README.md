@@ -7,8 +7,18 @@
 </div>
 
 
+<br clear="both">
 
-###
+<div align="center">
+  
+![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/MurilloDrigo/MurilloDrigo/assets/132285473/48ce5a56-3f6c-45d1-a54f-7241ed1226af.gif)
+
+</div>
+
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,16 +36,4 @@
 </div>
 
 
-<br clear="both">
-
-<div align="center">
-  
-![229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a](https://github.com/MurilloDrigo/MurilloDrigo/assets/132285473/48ce5a56-3f6c-45d1-a54f-7241ed1226af.gif)
-
-</div>
-
-<div align="left">
-
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 ###
